@@ -1,6 +1,6 @@
-.element{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.box{
+    border: 3px solid black;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 200px;
 }
